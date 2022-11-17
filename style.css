@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /* background-color: aqua; */
+    height: 100vh;
+}
+
+#color_changer{
+    padding: 2em;
+    font-size: 2em;
+}
